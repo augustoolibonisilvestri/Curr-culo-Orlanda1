@@ -1,0 +1,31 @@
+body{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    background: #c1d2ff;
+    text-align: center;
+    margin: 0;}
+    
+    header{
+      background-color: rgba(0, 0, 60, 0.915);
+      color: #c1d2ff;
+      padding: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    }
+
+    section {
+        color:rgba(0, 0, 60, 0.915); ;
+        margin: 30px;
+        letter-spacing: 1px;
+    }
+
+    h2{
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+    }
+
+    div{
+        background-color:rgba(23, 23, 213, 0.16);
+    border-radius: 5px;
+    }
+    
+    
+    
+        
+    
